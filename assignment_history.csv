@@ -1,0 +1,5 @@
+task_id,task_title,employee_id,employee_name,recipient,deadline,priority,assignment_time,status,email_status,email_error
+T001,Python API Development,E001,Durga Balakrishnan,bdurgabalakrishnan@gmail.com,2026-11-05,High,2026-10-26 06:36:03,Confirmed,Successful,
+T002,Database Setup,E001,Durga Balakrishnan,bdurgabalakrishnan@gmail.com,2026-11-12,High,2026-10-26 07:24:47,Confirmed,Failed,Failed to send email: Connection unexpectedly closed
+T003,REST API Testing,E001,Durga Balakrishnan,bdurgabalakrishnan@gmail.com,2026-11-15,Medium,2026-10-26 07:37:28,Confirmed,Failed,
+T003,REST API Testing,E001,Durga Balakrishnan,bdurgabalakrishnan@gmail.com,2026-11-15,Medium,2026-10-26 07:37:28,Confirmed,Failed,Failed to send email: Connection unexpectedly closed
